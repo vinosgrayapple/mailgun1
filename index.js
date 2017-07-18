@@ -1,5 +1,5 @@
-var api_key = 'key-f544ca91176297118e3f99590758c858';
-var domain = 'sandbox1ae123b39ea84cbeb43013560d508d81.mailgun.org';
+var api_key = 'key-digit';
+var domain = 'sandboxdigit.mailgun.org';
 var mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});
 var path = require('path');
 
